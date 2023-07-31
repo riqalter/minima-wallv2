@@ -2,7 +2,7 @@
 
 A minimal gallery wall. using javascript instead of php.
 
-live at [minima-wall.com](https://wall.riqexpe.eu.org/)
+live at [wall.riqexpe.eu.org](https://wall.riqexpe.eu.org/)
 
 ### Customise
 
