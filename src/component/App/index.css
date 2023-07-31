@@ -1,0 +1,9 @@
+.App {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: grid;
+  align-items: start;
+  justify-items: start;
+  position: relative;
+  width: max-content;
+}
